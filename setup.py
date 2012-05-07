@@ -5,7 +5,7 @@
 NAME = "ZenPacks.fdeckert.myDeviceIssues"
 VERSION = "1.0"
 AUTHOR = "Florian Deckert"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.fdeckert']
 PACKAGES = ['ZenPacks', 'ZenPacks.fdeckert', 'ZenPacks.fdeckert.myDeviceIssues']
 INSTALL_REQUIRES = []
